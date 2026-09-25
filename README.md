@@ -26,7 +26,6 @@ An interactive study tool built for the Flam Frontend Internship assignment. Unl
 1. Clone the repository:
    ```bash
    git clone <repo-url>
-   cd flam-frontend-assignment
    ```
 2. Install dependencies:
    ```bash
