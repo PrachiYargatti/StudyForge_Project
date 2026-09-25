@@ -3,6 +3,10 @@
 An interactive study tool built for the Flam Frontend Internship assignment. Unlike chatbots that render raw, unstructured text bubbles, StudyForge turns free-form notes and topics into validated, interactive **Flashcards** and **Quizzes** with comprehensive failure handling, client-side re-test rounds, and zero exposure of API credentials to the browser.
 
 ---
+## UI Design 
+<img width="1881" height="845" alt="Screenshot 2026-09-25 145401" src="https://github.com/user-attachments/assets/db8d5984-0a65-4a21-b7b5-2b6a2f8bcceb" />
+<img width="1887" height="841" alt="Screenshot 2026-09-25 145438" src="https://github.com/user-attachments/assets/d0d31664-a5bd-4939-9d7e-05f4afb080a9" />
+<img width="1891" height="847" alt="Screenshot 2026-09-25 145447" src="https://github.com/user-attachments/assets/8b9114be-348d-411e-afc0-139b5540717f" />
 
 ## 1. Overview
 - **Interactive Flashcards**: 3D flipping, Got it / Missed tracking, deck progress, card shuffle, and "Study missed only" adaptive rounds.
